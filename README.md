@@ -23,6 +23,7 @@
 </a>
 
 ---
+<h1 align="center">My repository</h1>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lehoang510&show_icons=true&icon_color=fff&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="nguyenlehoang" />
 
@@ -117,4 +118,3 @@
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/> <img src="./chatgpt-openai-logo-icon-free-png.webp" height="40"> <img src="./hf-logo.png" height="40"> <img src="./2560px-Scikit_learn_logo_small.svg.png" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40"/> <img src="./polars-logo-dark-medium.png" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/> <img src="./fastapi.svg" height="40"/> <img src="./MLflow-logo-final-black.png" height="40"> <img src="./bentoml.svg" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/> <img src="./seaborn-logo-244EB2DEC5-seeklogo.com.png" height="40"/>
 </div>
-           
