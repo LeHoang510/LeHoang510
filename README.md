@@ -12,7 +12,7 @@
 
 <!-- Done have anything for now -->
 
-<a href="" style="text-decoration: none;">
+<a href="https://lehoang510.github.io/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/website-%23ED8B00?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lehoangnguyen510/" style="text-decoration: none;">
