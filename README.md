@@ -12,13 +12,13 @@
 
 <!-- Done have anything for now -->
 
-<a href="https://lehoang510.github.io/" style="text-decoration: none;">
+<a href="https://lehoang510.github.io/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/website-%23ED8B00?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/lehoangnguyen510/" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/lehoangnguyen510/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:lehoangnguyen510@gmail.com" style="text-decoration: none;">
+<a href="mailto:lehoangnguyen510@gmail.com" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/email-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
