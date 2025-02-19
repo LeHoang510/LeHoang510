@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="custom.css">
 
-<h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
+<h1 align="center">WELCOME TO MY PAGE</h1>
 
 ### 👨‍💻 BIO 👨‍💻:
 - Hi, my name is Hoang
-- I'm a M2 at INSA de Rennes, major in Computer Science
+- I'm a Software engineer
 - My passion is to work in the field of AI or Data. I want to become a data scientist
 - I like playing baseball, playing piano, reading manga, playing league of legends and eating.
 
@@ -29,7 +29,10 @@
 
 <table>
 <tr>
+
+
 <td>
+
 <a href="https://github.com/LeHoang510/Image-Retrieval-System">
   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lehoang510&repo=Image-Retrieval-System&theme=gruvbox"/>
 </a>    
