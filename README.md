@@ -4,8 +4,8 @@
 
 ### 👨‍💻 BIO 👨‍💻:
 - Hi, my name is Hoang
-- I'm a Software engineer
-- My passion is to work in the field of AI or Data. I want to become a data scientist
+- I'm a Software/AI Engineer
+- My passion is to work in the field of AI or Data
 - I like playing baseball, playing piano, reading manga, playing league of legends and eating.
 
 ### Connect with me:
@@ -21,50 +21,6 @@
 <a href="mailto:lehoangnguyen510@gmail.com" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/email-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
----
-<h1 align="center">My repository</h1>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=lehoang510&show_icons=true&icon_color=fff&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="nguyenlehoang" />
-
-<table>
-<tr>
-
-
-<td>
-
-<a href="https://github.com/LeHoang510/Image-Retrieval-System">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lehoang510&repo=Image-Retrieval-System&theme=gruvbox"/>
-</a>    
-
-<a href="https://github.com/LeHoang510/Sudoku">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lehoang510&repo=Sudoku&theme=gruvbox" />
-</a>    
-
-<a href="https://github.com/LeHoang510/MLOPSVN">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lehoang510&repo=MLOPSVN&theme=gruvbox" />
-</a>
-</td>
-
-<td>
-
-<a href="https://github.com/LeHoang510/XAI-for-GAN">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lehoang510&repo=XAI-for-GAN&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/LeHoang510/Sleep-detection">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lehoang510&repo=Sleep-detection&theme=gruvbox" />
-</a> 
-
-<a href="https://github.com/LeHoang510/sample_app">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lehoang510&repo=sample_app&theme=gruvbox" />
-</a>
-
-</td>
-</tr>
-</table>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/lehoang510?theme=unicorn&font=Noto%20Sans)
 
 <h1 align="center">⚡⚡TECHSTACK⚡⚡</h1>
 
